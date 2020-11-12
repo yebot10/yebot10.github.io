@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Tobey's GitHub Page
+description: Created for Module 3 Assignment | W&M MSBA Online Program
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

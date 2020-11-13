@@ -8,4 +8,7 @@ Click below to see the MatPlotLib graphing assignments I completed as a part of 
 - [MatPlotLib Graphing Assignments](/just_for_fun)
 
 ![My Profile Picture](/pics/profile-pic.jpg)
+
+Want to see the very first Python code I ever created? Click below!
+- [Repository containing my first Python code](https://github.com/yebot10/Sample)
 .

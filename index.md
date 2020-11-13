@@ -8,3 +8,4 @@ Click below to see the MatPlotLib graphing assignments I completed as a part of 
 - [MatPlotLib Graphing Assignments](/just_for_fun)
 
 ![My Profile Picture](/pics/profile-pic.jpg)
+.
